@@ -2,7 +2,7 @@
   "name": "hook_state_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Shyamal90.github.io/hook_state_app",
+  "homepage": "https://shyamal90.github.io/day_two",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
