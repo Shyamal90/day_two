@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hook_state_app/static/css/main.c1c77eb8.css",
-    "main.js": "/hook_state_app/static/js/main.b66e106d.js",
-    "index.html": "/hook_state_app/index.html",
-    "main.c1c77eb8.css.map": "/hook_state_app/static/css/main.c1c77eb8.css.map",
-    "main.b66e106d.js.map": "/hook_state_app/static/js/main.b66e106d.js.map"
+    "main.css": "/day_two/static/css/main.c1c77eb8.css",
+    "main.js": "/day_two/static/js/main.b66e106d.js",
+    "index.html": "/day_two/index.html",
+    "main.c1c77eb8.css.map": "/day_two/static/css/main.c1c77eb8.css.map",
+    "main.b66e106d.js.map": "/day_two/static/js/main.b66e106d.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c77eb8.css",
