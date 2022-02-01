@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hook_state_app/static/css/main.c1c77eb8.css",
+    "main.js": "/hook_state_app/static/js/main.b66e106d.js",
+    "index.html": "/hook_state_app/index.html",
+    "main.c1c77eb8.css.map": "/hook_state_app/static/css/main.c1c77eb8.css.map",
+    "main.b66e106d.js.map": "/hook_state_app/static/js/main.b66e106d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c77eb8.css",
+    "static/js/main.b66e106d.js"
+  ]
+}
